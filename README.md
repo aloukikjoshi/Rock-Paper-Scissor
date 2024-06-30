@@ -1,1 +1,3 @@
 # Rock-Paper-Scissor
+
+The only place on GitHub where you can find the Rock-Paper-Scissor coded in Assembly Language for MIPS-32 architecture which can be simulated on the Mars4_5 simulator which is based on JAVA...
